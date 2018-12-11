@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/TWILIO.iml" filepath="$PROJECT_DIR$/.idea/TWILIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exampleAdvancedCameraCapturer/exampleAdvancedCameraCapturer.iml" filepath="$PROJECT_DIR$/exampleAdvancedCameraCapturer/exampleAdvancedCameraCapturer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exampleCustomVideoCapturer/exampleCustomVideoCapturer.iml" filepath="$PROJECT_DIR$/exampleCustomVideoCapturer/exampleCustomVideoCapturer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exampleCustomVideoRenderer/exampleCustomVideoRenderer.iml" filepath="$PROJECT_DIR$/exampleCustomVideoRenderer/exampleCustomVideoRenderer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exampleDataTrack/exampleDataTrack.iml" filepath="$PROJECT_DIR$/exampleDataTrack/exampleDataTrack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exampleScreenCapturer/exampleScreenCapturer.iml" filepath="$PROJECT_DIR$/exampleScreenCapturer/exampleScreenCapturer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exampleVideoInvite/exampleVideoInvite.iml" filepath="$PROJECT_DIR$/exampleVideoInvite/exampleVideoInvite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickstart/quickstart.iml" filepath="$PROJECT_DIR$/quickstart/quickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickstartKotlin/quickstartKotlin.iml" filepath="$PROJECT_DIR$/quickstartKotlin/quickstartKotlin.iml" />
+    </modules>
+  </component>
+</project>

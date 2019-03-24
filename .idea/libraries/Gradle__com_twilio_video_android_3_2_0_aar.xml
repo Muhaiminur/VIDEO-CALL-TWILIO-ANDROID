@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twilio:video-android:3.2.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/video-android-3.2.0.aar/a1436bf36e85028c0f7979faae370a37/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/video-android-3.2.0.aar/a1436bf36e85028c0f7979faae370a37/jars/libs/libwebrtc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/video-android-3.2.0.aar/a1436bf36e85028c0f7979faae370a37/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/video-android-3.2.0.aar/a1436bf36e85028c0f7979faae370a37/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twilio/video-android/3.2.0/46391a7f3ec310fb7320b117c63009d155354b16/video-android-3.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

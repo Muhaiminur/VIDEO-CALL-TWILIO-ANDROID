@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/TWILIO.iml" filepath="$PROJECT_DIR$/.idea/TWILIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TWILIO.iml" filepath="$PROJECT_DIR$/TWILIO.iml" />
       <module fileurl="file://$PROJECT_DIR$/exampleAdvancedCameraCapturer/exampleAdvancedCameraCapturer.iml" filepath="$PROJECT_DIR$/exampleAdvancedCameraCapturer/exampleAdvancedCameraCapturer.iml" />
       <module fileurl="file://$PROJECT_DIR$/exampleCustomVideoCapturer/exampleCustomVideoCapturer.iml" filepath="$PROJECT_DIR$/exampleCustomVideoCapturer/exampleCustomVideoCapturer.iml" />
       <module fileurl="file://$PROJECT_DIR$/exampleCustomVideoRenderer/exampleCustomVideoRenderer.iml" filepath="$PROJECT_DIR$/exampleCustomVideoRenderer/exampleCustomVideoRenderer.iml" />
